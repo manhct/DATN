@@ -1,0 +1,42 @@
+Tên đề tài: Xây dựng hệ thống thư điện tử Zimbra tích hợp tin nhắn thông báo tự động
+XÂY DỰNG HỆ THỐNG THƯ ĐIỆN TỬ VỚI PHẦN MỀM MÃ NGUỒN MỞ ZIMBRA TÍCH HỢP TIN NHẮN TỰ ĐỘNG THÔNG BÁO
+
+LỜI NÓI ĐẦU
+Chương 1: TỔNG QUAN VỀ ĐỀ TÀI
+        1.1. Lý do chọn đề tài
+        1.2. Mục đích, yêu cầu
+        1.3. Cách tiếp cận đề tài
+        1.4. Phạm vi ứng dụng
+        1.5. Công cụ sử dụng
+        1.6. Bài toán thực tế
+                1.6.1. Đặt vấn đề
+                1.6.2. Bài toán
+                1.6.3. Hướng giải quyết của bài toán
+	1.7. Bố cục của đề tài
+Chương 2: XÂY DỰNG HỆ THỐNG ZIMBRA CS
+        2.1 Giới thiệu về Zimbra CS
+        2.2. Lựa chọn hệ điều hành và phần mềm cần thiết
+        2.3. Các bước cấu hình và cài đặt Zimbra CS
+                2.3.1: Chuẩn bị trước khi cài đặt Zimbra CS
+                2.3.2: Cấu hình hostname và DNS cho tên miền của Mail server
+                2.3.3: Tải và cài đặt Zimbra CS
+                2.3.4: Kiểm tra trạng thái hoạt động của Mail server
+                2.3.5: Cài đặt Việt hóa giao diện người dùng
+Chương 3: XÂY DỰNG HỆ THỐNG TIN NHẮN TÍCH HỢP ZIMBRA CS
+        3.1. Giới thiệu về python và web2py
+        3.2. Mô hình hoạt động của hệ thống
+        3.3. Cài đặt hệ thống tin nhắn tích hợp ZIMBRA CS
+                3.3.1. Cài đặt Python và các module cần thiết
+                3.3.2. Cài đặt GSM MODEM
+                3.3.3. Cài đặt Web2py và kết nối với GSM MODEM
+                3.3.4. Kiểm tra hoạt động của hệ thống
+Chương 4: QUẢN TRỊ HỆ THỐNG ZIMBRA CS
+        4.1. Giao diện quản lý của Admin
+        4.2. Quản trị hệ thống Zimbra CS
+Chương 5: TÌM HIỂU WEB MAIL ZIMBRA VÀ PHẦN MÊM ZIMBRA DESKTOP
+        5.1. Giao diện web mail ZIMBRA và các tính năng
+        5.2. Phần mềm ZIMBRA DESKTOP
+
+KẾT LUẬN
+TÀI LIỆU THAM KHẢO
+
